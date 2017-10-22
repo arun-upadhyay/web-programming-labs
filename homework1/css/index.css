@@ -1,0 +1,23 @@
+/*
+ Author: Arun Kumar Upadhyay
+ Student ID: 985080
+*/
+h1 {
+    text-align: center;
+    font-family: fantasy;
+    text-transform: uppercase;
+    color: #A4A400;
+}
+h2{
+    text-align: left;
+    font-family: cursive;
+    color: #404040;
+}
+p {
+    text-align: justify;
+    font-family: sans-serif;
+    color: #404040;
+}
+ul {
+    list-style-type: none;
+}

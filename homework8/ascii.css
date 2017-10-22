@@ -1,0 +1,45 @@
+/*
+		Stephen Brannen
+		CSC 365 Fall 2013
+		Missouri State University
+		Homework 5
+
+		matches-submit.php
+		Eccentric: \\eccentric\class\csc365\001\brannen01\HW5
+		Personal Site: http://csc.stephenbrannen.com/HW5/ascii.css
+*/
+body {
+	background-color: #CCCCFF;
+	font-family: sans-serif;
+	font-size: 14pt;
+	font-weight: bold;
+	text-align: center;
+}
+
+h1 {
+	font-size: 32pt;
+	margin: 0;
+}
+
+textarea {
+	font-family: monospace;
+	font-size: 12pt;
+	height: 400px;
+	width: 90%;
+}
+
+fieldset {
+	border: 5px solid black;
+	border-radius: 10px;
+	display: inline;
+	vertical-align: top;
+}
+
+button, select{
+	font-size: 14pt;
+	font-weight: bold;
+}
+
+p {
+	text-align: right;
+}

@@ -1,0 +1,5 @@
+
+shova niraula,F,20,,Mac OS X,10,=4
+shova niraula,F,20,,Mac OS X,10,=4
+Arun Kumar Upadhyay,M,20,,Mac OS X,12,50
+arun,M,23,22,Windows,12,99
